@@ -12,7 +12,7 @@ public class SelIntroduction {
         // WebDriver driver = new ChromeDriver();
         WebDriver driver = new EdgeDriver();
 		driver.get("https://rahulshettyacademy.com");
-        System.out.println(driver.getTitle()zzz);
+        System.out.println(driver.getTitle());
     }
     
 }
